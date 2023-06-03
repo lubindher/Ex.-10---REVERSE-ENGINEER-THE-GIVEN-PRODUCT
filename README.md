@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![241557878-2baabc9a-0846-45c3-9c0f-c6ca5b986f69](https://github.com/lubindher/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559904/ad8713d6-3c8b-4dfa-8e1b-4832be4dc9a8)
 
 ### Output:
 
+![241557868-89e33baa-7279-41a2-9cc5-c7547bf6d25a](https://github.com/lubindher/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559904/4092b495-9d7e-4976-90d2-e044fb583d4b)
 
-### Name:
-### Register Number:
+### Name: LUBINDHER S
+### Register Number: 212222240056
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
